@@ -5,6 +5,7 @@
 * [自制力](chapter1/README.md)
     * [1.1 年轻人如何在独居时有效地保持自律？](chapter1/section1.1.md)
     * [1.2 学习方法金字塔](chapter1/section1.2.md)
+    * [1.3 自制力模型](chapter1/section1.3.md)
 * [学习方法](chapter2/README.md)
     * [section2.2](chapter2/section2.1.md)
     * [Section2.2](chapter2/section2.2.md)

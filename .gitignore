@@ -8,6 +8,7 @@ bin-release/
 
 # Other files and folders
 .settings/
+chapter1/
 
 # Executables
 *.swf
@@ -15,6 +16,9 @@ bin-release/
 *.ipa
 *.apk
 *.md
+
+# Files
+SUMAMARY.md
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
