@@ -1,79 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="320888ec-af18-4d7b-8c1d-62eff922b16b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leave-and-learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/.idea/leave-and-learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/author.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter1/section1.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter1/section1.1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter1/section1.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter1/section1.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter2/section2.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter2/section2.1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter2/section2.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter2/section2.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter3/section3.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter3/section3.1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter3/section3.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/chapter3/section3.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-fontsettings/fontsettings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-fontsettings/website.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-highlight/ebook.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-highlight/website.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-lunr/lunr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-lunr/search-lunr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/lunr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search-engine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-sharing/buttons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/gitbook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/images/apple-touch-icon-precomposed-152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/gitbook/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_book/search_index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/author.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/section1.1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/section1.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/section2.1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/section2.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/section3.1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/section3.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publish_gitbook.sh" afterDir="false" />
+    <list default="true" id="320888ec-af18-4d7b-8c1d-62eff922b16b" name="Default Changelist" comment="add docs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/section1.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/section1.2.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,38 +17,39 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
-          <entry key="md" value="8" />
+          <entry key="md" value="9" />
           <entry key="sh" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="Markdown" value="8" />
+          <entry key="Markdown" value="9" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="15" />
-          <entry key="md" value="128" />
+          <entry key="md" value="133" />
           <entry key="sh" value="9" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="9" />
-          <entry key="Markdown" value="128" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Markdown" value="133" />
+          <entry key="PLAIN_TEXT" value="23" />
         </counts>
       </usages-collector>
     </session>
@@ -125,29 +57,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="224">
-                <caret line="14" selection-start-line="14" selection-end-line="14" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publish_gitbook.sh">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter1/section1.1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="4224">
+              <first_editor relative-caret-position="248">
                 <caret line="264" selection-start-line="264" selection-end-line="264" />
               </first_editor>
               <second_editor>
@@ -166,68 +79,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/author.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter1/section1.2.md">
+        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/section2.2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter3/section3.2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="224">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -246,9 +104,10 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/author.md" />
         <option value="$PROJECT_DIR$/chapter1/section1.1.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/publish_gitbook.sh" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/chapter1/section1.2.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
       </list>
     </option>
   </component>
@@ -258,11 +117,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2067" />
-    <option name="y" value="55" />
-    <option name="width" value="1473" />
-    <option name="height" value="1024" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2066" />
+    <option name="y" value="54" />
+    <option name="width" value="1474" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -279,6 +138,16 @@
               <item name="leave-and-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="leave-and-learn" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leave-and-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leave-and-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leave-and-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leave-and-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -289,9 +158,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536746752998" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536751902111" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -312,12 +182,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/leave-and-learn/docs/index.html">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/leave-and-learn/_book/index.html">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -335,17 +213,26 @@
       <workItem from="1536745046859" duration="1728000" />
       <workItem from="1536748417356" duration="79000" />
       <workItem from="1536748521884" duration="399000" />
+      <workItem from="1536751317890" duration="577000" />
     </task>
+    <task id="LOCAL-00001" summary="add docs">
+      <created>1536751474129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536751474129</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2206000" />
+    <option name="totallyTimeSpent" value="2783000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2040" y="46" width="1187" height="825" extended-state="0" />
+    <frame x="1913" y="-7" width="1370" height="831" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2577502" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22637194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -355,12 +242,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4349776" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5407407" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3288889" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -380,6 +267,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="add docs" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/chapter1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -393,67 +284,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="224">
-            <caret line="14" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/section1.1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="4224">
-            <caret line="264" selection-start-line="264" selection-end-line="264" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_book/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/author.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/section1.2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/section2.2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/publish_gitbook.sh" />
     <entry file="file://$PROJECT_DIR$/chapter3/section3.2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -474,13 +305,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/publish_gitbook.sh">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/chapter1/section1.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="248">
+            <caret line="264" selection-start-line="264" selection-end-line="264" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/section1.2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2000">
+            <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/section2.2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_book/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="224">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
