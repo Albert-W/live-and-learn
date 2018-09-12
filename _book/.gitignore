@@ -1,14 +1,24 @@
 # Build and Release Folders
-.idea/
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+/_book
+/.idea
 
 # Other files and folders
 .settings/
+
 
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
+
+
+# Files
+SUMAMARY.md
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important

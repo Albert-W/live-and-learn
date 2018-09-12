@@ -8,14 +8,14 @@ bin-release/
 
 # Other files and folders
 .settings/
-chapter1/
+
 
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
-*.md
+
 
 # Files
 SUMAMARY.md
