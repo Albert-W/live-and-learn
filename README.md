@@ -9,14 +9,6 @@
 快一年的努力学习，让我考上计算机研究生（985），考研结果公布之后，我开始着手雅思，开学不久拿到雅思成绩。约半年之后，便利用雅思申请到西欧学习机会，拿着National Funding 读 Research Postgraduate.
 
 环境的多次剧变，持续的求学生涯，的确起到了“苦其心志，劳其筋骨”的作用，让我不得不认真研究学习方法。于是我先后写了很多相关的文章，汇集之后，形成此文集。
-***
-
-本书由gitbook制作，提供 pdf, epub, mobi格式的下载，也提供开源项目地址：https://github.com/Albert-W/leave-and-learn
-
-谢谢您通过微信扫码支持我，您的支持会激励我创作更多免费内容。
-<div align=center>
-<img src="chapter1/微信图片_20180912214326.jpg" width="500" height="500" />
-</div>
 
 
 
