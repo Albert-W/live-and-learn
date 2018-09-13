@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="320888ec-af18-4d7b-8c1d-62eff922b16b" name="Default Changelist" comment="change ignore file">
-      <change afterPath="$PROJECT_DIR$/chapter1/微信图片_20180912214326.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leave-and-learn.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/chapter1/README.md" beforeDir="false" />
@@ -22,9 +15,8 @@
       <change beforePath="$PROJECT_DIR$/_book/chapter2/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/chapter2/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/chapter2/section2.1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/chapter2/section2.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.5.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/chapter2/section2.2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/chapter2/section2.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/chapter2/section2.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/book.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/chapter3/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/chapter3/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/chapter3/section3.1.html" beforeDir="false" />
@@ -55,7 +47,111 @@
       <change beforePath="$PROJECT_DIR$/_book/gitbook/theme.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/section1.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/section1.1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/section2.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/section2.1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/section2.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/section2.2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/author.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter1/section1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/section1.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter1/section1.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/section1.1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter1/section1.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/section1.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter1/section1.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/section1.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter1/section1.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/section1.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/section2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/section2.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/section2.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/section2.1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/section2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/section2.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/section2.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/section2.2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/section3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/section3.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/section3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/section3.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/author.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter1/section1.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter1/section1.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter1/section1.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter1/section1.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter2/section2.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter2/section2.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter2/section2.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter2/section2.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter3/section3.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter3/section3.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter3/section3.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/chapter3/section3.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/author.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter1/section1.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter1/section1.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter1/section1.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter1/section1.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter2/section2.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter2/section2.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter2/section2.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter2/section2.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter3/section3.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter3/section3.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter3/section3.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/chapter3/section3.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/fonts/fontawesome/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook-plugin-fontsettings/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook-plugin-highlight/ebook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook-plugin-highlight/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook-plugin-lunr/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook-plugin-lunr/search-lunr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook-plugin-search/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook-plugin-search/search-engine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook-plugin-search/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook-plugin-search/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook-plugin-sharing/buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/gitbook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/images/apple-touch-icon-precomposed-152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/gitbook/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/docs/search_index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/fonts/fontawesome/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook-plugin-fontsettings/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook-plugin-highlight/ebook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook-plugin-highlight/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook-plugin-lunr/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook-plugin-lunr/search-lunr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook-plugin-search/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook-plugin-search/search-engine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook-plugin-search/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook-plugin-search/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook-plugin-sharing/buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/gitbook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/images/apple-touch-icon-precomposed-152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/gitbook/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs/search_index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/search_index.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,38 +163,42 @@
     <session id="-1274398734">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="exclude" value="1" />
-          <entry key="gitignore" value="4" />
-          <entry key="html" value="4" />
-          <entry key="md" value="20" />
+          <entry key="gitignore" value="5" />
+          <entry key="html" value="6" />
+          <entry key="json" value="2" />
+          <entry key="md" value="26" />
           <entry key="sh" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git exclude file" value="1" />
-          <entry key="Git file" value="2" />
-          <entry key="HTML" value="4" />
-          <entry key="Markdown" value="20" />
+          <entry key="Git file" value="3" />
+          <entry key="HTML" value="6" />
+          <entry key="JSON" value="2" />
+          <entry key="Markdown" value="26" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="75" />
-          <entry key="md" value="434" />
+          <entry key="json" value="169" />
+          <entry key="md" value="495" />
           <entry key="sh" value="9" />
           <entry key="txt" value="26" />
         </counts>
@@ -107,28 +207,20 @@
         <counts>
           <entry key="Bash" value="9" />
           <entry key="Git file" value="13" />
-          <entry key="Markdown" value="434" />
+          <entry key="JSON" value="169" />
+          <entry key="Markdown" value="495" />
           <entry key="PLAIN_TEXT" value="88" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="208">
-                <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState>
-                  <previewPanelState version="2.5.4">
-                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:236}}</jsState>
-                  </previewPanelState>
-                </markdownNavigatorState>
-              </second_editor>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/book.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="52" column="27" lean-forward="true" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -137,62 +229,37 @@
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="112">
-                <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <first_editor relative-caret-position="94">
+                <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
               </first_editor>
               <second_editor>
-                <markdownNavigatorState>
-                  <previewPanelState version="2.5.4" />
-                </markdownNavigatorState>
+                <markdownNavigatorState />
               </second_editor>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter1/1.5.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="544">
-                <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+              <first_editor relative-caret-position="352">
+                <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
               </first_editor>
               <second_editor>
-                <markdownNavigatorState>
-                  <previewPanelState version="2.5.4" />
-                </markdownNavigatorState>
+                <markdownNavigatorState />
               </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter1/section1.1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="192">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState>
-                  <previewPanelState version="2.5.4">
-                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:185}}</jsState>
-                  </previewPanelState>
-                </markdownNavigatorState>
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ga</find>
+      <find>donate</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -205,12 +272,15 @@
         <option value="$PROJECT_DIR$/publish_gitbook.sh" />
         <option value="$PROJECT_DIR$/chapter1/section1.2.md" />
         <option value="$PROJECT_DIR$/chapter1/section1.4.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/chapter1/section1.3.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/chapter1/1.5.md" />
         <option value="$PROJECT_DIR$/chapter1/section1.1.md" />
+        <option value="$PROJECT_DIR$/chapter2/section2.1.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/chapter2/section2.2.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/book.json" />
       </list>
     </option>
   </component>
@@ -221,10 +291,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="633" />
-    <option name="y" value="58" />
-    <option name="width" value="1716" />
-    <option name="height" value="1012" />
+    <option name="x" value="1995" />
+    <option name="y" value="35" />
+    <option name="width" value="1608" />
+    <option name="height" value="944" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -233,14 +303,44 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leave-and-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leave-and-learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leave-and-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leave-and-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leave-and-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leave-and-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leave-and-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leave-and-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536787740475" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536856529545" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -304,7 +404,9 @@
       <workItem from="1536783697991" duration="2003000" />
       <workItem from="1536786639485" duration="1353000" />
       <workItem from="1536788278420" duration="31000" />
-      <workItem from="1536788340652" duration="45000" />
+      <workItem from="1536788340652" duration="1030000" />
+      <workItem from="1536825931671" duration="17000" />
+      <workItem from="1536851182894" duration="5168000" />
     </task>
     <task id="LOCAL-00001" summary="add docs">
       <created>1536751474129</created>
@@ -348,16 +450,23 @@
       <option name="project" value="LOCAL" />
       <updated>1536760233852</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="change ignore file">
+      <created>1536789349839</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1536789349839</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9959000" />
+    <option name="totallyTimeSpent" value="16129000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="0" width="1568" height="834" extended-state="0" />
+    <frame x="1981" y="29" width="1297" height="761" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.40877914" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23890235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -372,9 +481,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49834326" weight="0.35555556" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5016567" side_tool="true" visible="true" weight="0.18141593" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32886904" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49636805" visible="true" weight="0.5305785" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50363195" side_tool="true" weight="0.5305785" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3272727" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32986626" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -394,6 +503,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="add docs" />
     <MESSAGE value="change ignore file" />
     <option name="LAST_COMMIT_MESSAGE" value="change ignore file" />
@@ -401,16 +511,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/publish_gitbook.sh" />
     <entry file="file://$PROJECT_DIR$/chapter3/section3.2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/section2.2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -443,13 +543,6 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_book/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -489,32 +582,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/chapter1/section1.1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+          <first_editor relative-caret-position="256">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor>
-            <markdownNavigatorState>
-              <previewPanelState version="2.5.4">
-                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:236}}</jsState>
-              </previewPanelState>
-            </markdownNavigatorState>
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="112">
-            <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState>
-              <previewPanelState version="2.5.4" />
-            </markdownNavigatorState>
+            <markdownNavigatorState />
           </second_editor>
         </state>
       </provider>
@@ -522,43 +597,114 @@
     <entry file="file://$PROJECT_DIR$/chapter1/1.5.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="544">
+          <first_editor relative-caret-position="704">
             <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
           </first_editor>
           <second_editor>
-            <markdownNavigatorState>
-              <previewPanelState version="2.5.4" />
-            </markdownNavigatorState>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_book/search_index.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_book/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/chapter2/section2.1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/section2.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="14" selection-start-column="14" selection-end-column="14" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/chapter2/section2.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="352">
+            <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
           </second_editor>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="400">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/section1.1.md">
+    <entry file="file://$PROJECT_DIR$/chapter2/section2.2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="192">
-            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <first_editor>
+            <caret column="13" selection-start-column="13" selection-end-column="13" />
           </first_editor>
           <second_editor>
-            <markdownNavigatorState>
-              <previewPanelState version="2.5.4">
-                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:185}}</jsState>
-              </previewPanelState>
-            </markdownNavigatorState>
+            <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="94">
+            <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="52" column="27" lean-forward="true" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="MarkdownNavigator.LinkMap.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3998162" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>

@@ -1,0 +1,68 @@
+{
+  "title":"学无止境",
+  "description":"个人成长与学习方法",
+  "author":"Albert-W",
+
+  "root":".",
+  "output":"./docs",
+
+
+  "styles": {
+    "website": "website.css",
+    "ebook": "ebook.css",
+    "pdf": "pdf.css",
+    "mobi": "mobi.css",
+    "epub": "epub.css"
+  },
+
+  "plugins": [
+    "splitter",
+    "github",
+    "github-buttons",
+    "tbfed-pagefooter",
+    "anchors",
+    "anchor-navigation-ex",
+    "favicon"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/Albert-W/leave-and-learn"
+    },
+    "github-buttons": {
+      "repo": "Albert-W/leave-and-learn",
+      "types": [
+        "star",
+        "watch",
+        "fork"
+      ],
+      "size": "small"
+    },
+    "tbfed-pagefooter": {
+      "copyright":"Copyright &copy zhangjikai.com 2017",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  },
+
+
+  "anchor-navigation-ex": {
+    "isRewritePageTitle": true,
+    "isShowTocTitleIcon": true,
+    "tocLevel1Icon": "fa fa-hand-o-right",
+    "tocLevel2Icon": "fa fa-hand-o-right",
+    "tocLevel3Icon": "fa fa-hand-o-right"
+  },
+  "favicon": {
+    "shortcut": "assets/images/favicon.ico",
+    "bookmark": "assets/images/favicon.ico",
+    "appleTouch": "assets/images/apple-touch-icon.png",
+    "appleTouchMore": {
+      "120x120": "assets/images/apple-touch-icon-120x120.png",
+      "180x180": "assets/images/apple-touch-icon-180x180.png"
+    }
+  }
+
+
+
+
+}
