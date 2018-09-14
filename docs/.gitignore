@@ -5,6 +5,7 @@ bin-release/
 [Bb]in/
 /_book
 /.idea
+/node_modules
 
 # Other files and folders
 .settings/
