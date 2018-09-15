@@ -6,6 +6,7 @@
     "anchor-navigation-ex@0.1.8",
     "-sharing"
   ],
+
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/Albert-W/leave-and-learn"
