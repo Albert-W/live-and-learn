@@ -2,823 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="320888ec-af18-4d7b-8c1d-62eff922b16b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/publish.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/boolbase/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/boolbase/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/boolbase/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/lib/api/attributes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/lib/api/css.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/lib/api/forms.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/lib/api/manipulation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/lib/api/traversing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/lib/cheerio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/lib/parse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/lib/static.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/lib/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/cheerio/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/core-util-is/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/core-util-is/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/core-util-is/float.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/core-util-is/lib/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/core-util-is/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/core-util-is/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-select/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-select/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-select/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-select/lib/attributes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-select/lib/compile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-select/lib/general.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-select/lib/procedure.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-select/lib/pseudos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-select/lib/sort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-select/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-what/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-what/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-what/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/css-what/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/dom-serializer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/dom-serializer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/dom-serializer/node_modules/domelementtype/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/dom-serializer/node_modules/domelementtype/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/dom-serializer/node_modules/domelementtype/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/dom-serializer/node_modules/domelementtype/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/dom-serializer/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domelementtype/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domelementtype/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domelementtype/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domelementtype/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/lib/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/lib/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/01-basic.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/02-single_tag_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/03-single_tag_2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/04-unescaped_in_script.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/05-tags_in_comment.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/06-comment_in_script.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/07-unescaped_in_style.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/08-extra_spaces_in_tag.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/09-unquoted_attrib.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/10-singular_attribute.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/11-text_outside_tags.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/12-text_only.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/13-comment_in_text.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/14-comment_in_text_in_script.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/15-non-verbose.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/16-normalize_whitespace.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/17-xml_namespace.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/18-enforce_empty_tags.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/19-ignore_empty_tags.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/20-template_script_tags.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/21-conditional_comments.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/22-lowercase_tags.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/23-dom-lvl1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/24-with-start-indices.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/cases/25-with-end-indices.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domhandler/test/tests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/lib/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/lib/legacy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/lib/manipulation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/lib/querying.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/lib/stringify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/lib/traversal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/test/fixture.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/test/tests/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/test/tests/legacy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/test/tests/traversal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/domutils/test/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/lib/decode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/lib/decode_codepoint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/lib/encode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/maps/decode.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/maps/entities.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/maps/legacy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/maps/xml.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/test/mocha.opts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/entities/test/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/.idea/gitbook-plugin-anchor-navigation-ex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/assets/lib/plugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/assets/style/plugin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/gitbook-plugin-anchor-navigation-ex-demo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/gitbook-plugin-anchor-navigation-ex-demo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/doc/images/gitbook-plugin-anchor-navigation-ex-demo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-anchor-navigation-ex/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-tbfed-pagefooter/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-tbfed-pagefooter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-tbfed-pagefooter/assets/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-tbfed-pagefooter/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-tbfed-pagefooter/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/github-slugid/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/github-slugid/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/github-slugid/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/github-slugid/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/github-slugid/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/github-slugid/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/github-slugid/test/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/htmlparser2/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/htmlparser2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/htmlparser2/lib/CollectingHandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/htmlparser2/lib/FeedHandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/htmlparser2/lib/Parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/htmlparser2/lib/ProxyHandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/htmlparser2/lib/Stream.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/htmlparser2/lib/Tokenizer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/htmlparser2/lib/WritableStream.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/htmlparser2/lib/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/htmlparser2/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/inherits/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/inherits/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/inherits/inherits.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/inherits/inherits_browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/inherits/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/isarray/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/isarray/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/isarray/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/isarray/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/isarray/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/isarray/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/isarray/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/isarray/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.assignin/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.assignin/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.assignin/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.assignin/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.bind/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.bind/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.bind/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.bind/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.defaults/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.defaults/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.defaults/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.defaults/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.filter/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.filter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.filter/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.filter/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.flatten/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.flatten/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.flatten/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.flatten/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.foreach/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.foreach/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.foreach/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.foreach/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.map/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.map/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.map/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.map/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.merge/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.merge/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.merge/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.merge/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.pick/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.pick/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.pick/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.pick/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.reduce/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.reduce/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.reduce/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.reduce/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.reject/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.reject/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.reject/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.reject/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.some/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.some/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.some/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/lodash.some/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/ender.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/af.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ar-dz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ar-kw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ar-ly.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ar-ma.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ar-sa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ar-tn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/az.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/be.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/bg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/bm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/bn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/bo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/br.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/bs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/cv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/de-at.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/de-ch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/dv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/en-au.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/en-ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/en-gb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/en-ie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/en-il.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/en-nz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/eo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/es-do.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/es-us.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/eu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/fo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/fr-ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/fr-ch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/fy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/gd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/gl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/gom-latn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/gu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/hi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/hu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/hy-am.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/is.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/jv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ka.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/kk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/km.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/kn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ky.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/lb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/lo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/mi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/mk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/mn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/mr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ms-my.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ms.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/mt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/my.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ne.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/nl-be.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/nn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/pa-in.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/pt-br.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/sd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/se.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/si.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/sl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/sq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/sr-cyrl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/sr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/sw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ta.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/te.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/tet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/tg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/th.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/tl-ph.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/tlh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/tzl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/tzm-latn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/tzm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ug-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/ur.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/uz-latn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/uz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/x-pseudo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/yo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/zh-hk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/locale/zh-tw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/min/locales.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/min/locales.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/min/moment-with-locales.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/min/moment-with-locales.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/min/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/moment.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/package.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/check-overflow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/date-from-array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/from-anything.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/from-array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/from-object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/from-string-and-array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/from-string-and-format.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/from-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/local.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/parsing-flags.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/utc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/create/valid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/abs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/add-subtract.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/as.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/bubble.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/clone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/constructor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/create.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/duration.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/get.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/humanize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/iso-string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/prototype.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/duration/valid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/format/format.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/base-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/constructor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/formats.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/invalid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/lists.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/locale.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/locales.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/ordinal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/pre-post-format.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/prototype.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/relative.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/locale/set.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/add-subtract.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/clone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/compare.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/constructor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/creation-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/diff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/format.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/from.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/get-set.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/locale.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/min-max.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/now.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/prototype.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/start-end-of.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/to-type.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/to.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/moment/valid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/parse/regex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/parse/token.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/aliases.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/day-of-month.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/day-of-week.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/day-of-year.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/hour.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/millisecond.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/minute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/month.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/offset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/priorities.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/quarter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/second.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/timestamp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/timezone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/units.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/week-calendar-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/week-year.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/week.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/units/year.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/abs-ceil.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/abs-floor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/abs-round.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/compare-arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/defaults.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/deprecate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/extend.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/has-own-prop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/hooks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/index-of.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/is-array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/is-date.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/is-function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/is-number.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/is-object-empty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/is-object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/is-undefined.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/keys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/mod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/some.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/to-int.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/lib/utils/zero-fill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/af.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ar-dz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ar-kw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ar-ly.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ar-ma.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ar-sa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ar-tn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/az.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/be.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/bg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/bm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/bn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/bo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/br.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/bs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/cv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/de-at.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/de-ch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/dv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/en-au.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/en-ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/en-gb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/en-ie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/en-il.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/en-nz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/eo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/es-do.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/es-us.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/eu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/fo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/fr-ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/fr-ch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/fy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/gd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/gl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/gom-latn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/gu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/hi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/hu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/hy-am.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/is.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/jv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ka.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/kk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/km.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/kn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ky.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/lb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/lo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/mi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/mk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/mn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/mr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ms-my.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ms.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/mt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/my.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ne.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/nl-be.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/nn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/pa-in.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/pt-br.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/sd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/se.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/si.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/sl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/sq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/sr-cyrl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/sr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/sw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ta.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/te.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/tet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/tg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/th.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/tl-ph.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/tlh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/tzl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/tzm-latn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/tzm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ug-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/ur.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/uz-latn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/uz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/x-pseudo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/yo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/zh-hk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/locale/zh-tw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/moment/src/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/nth-check/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/nth-check/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/nth-check/compile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/nth-check/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/nth-check/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/nth-check/parse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/nth-check/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/process-nextick-args/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/process-nextick-args/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/process-nextick-args/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/process-nextick-args/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/GOVERNANCE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/duplex-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/duplex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/lib/_stream_duplex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/lib/_stream_passthrough.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/lib/_stream_readable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/lib/_stream_transform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/lib/_stream_writable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/lib/internal/streams/BufferList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/lib/internal/streams/destroy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/lib/internal/streams/stream-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/lib/internal/streams/stream.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/passthrough.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/readable-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/readable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/transform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/writable-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/readable-stream/writable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/safe-buffer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/safe-buffer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/safe-buffer/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/safe-buffer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/safe-buffer/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/string_decoder/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/string_decoder/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/string_decoder/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/string_decoder/lib/string_decoder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/string_decoder/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/util-deprecate/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/util-deprecate/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/util-deprecate/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/util-deprecate/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/util-deprecate/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/util-deprecate/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/book.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.10.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.11.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.12.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.13.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.13.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.13.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.14.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.14.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.15.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.15.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.16.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.16.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.16.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.16.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.17.1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.17.1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.17.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.17.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.18.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.18.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.19.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.19.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.20.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.20.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.21.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.21.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.22.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.22.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.23.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.23.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.23.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.23.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.24.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.24.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.25.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.25.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.26.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.26.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.27.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.27.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.28.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.28.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.29.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.29.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.30.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.30.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.6.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.6.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.6.2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.6.2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.6.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.7.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.8.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.9.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.9.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.9.2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.9.2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.9.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/Learning-Method-Pyramid.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Learning-Method-Pyramid.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/Will-Power-Page-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Will-Power-Page-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/Will-Power-Page-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/Will-Power-Page-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/廉价娱乐.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/廉价娱乐.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/微信图片_20180912214326.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/微信图片_20180912214326.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/微信图片_20180913222348.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/微信图片_20180913222348.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/精力管理-Page-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/精力管理-Page-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/精力管理-Page-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/精力管理-Page-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/2.1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/2.2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/2.3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/2.4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/2.5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.6.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/2.6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.7.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/2.7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.8.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/2.8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.9.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/2.9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/3.1.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/3.1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.2.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/3.2.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/3.2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.3.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/3.3.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/3.3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/3.4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/3.5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.2.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.2.2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.2.3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.2.4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.3.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.3.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.3.2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.3.2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.4.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.4.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.4.2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.4.2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.5.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.5.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.6.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/4.6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/5.1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.2.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/5.2.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/5.2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/5.3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.4.1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/5.4.1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/5.4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.10.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.11.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.12.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.13.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.14.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.14.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.15.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.15.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.16.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.16.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.6.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.6.1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.6.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.7.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.8.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.9.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.25.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.25.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.26.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.27.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.27.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.28.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.28.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.29.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.29.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.30.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.30.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/mybook.epub" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/mybook.mobi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/mybook.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/reward.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/reward.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/search_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-github/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-github/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github/assets/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-github/assets/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-github/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-github/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/gitbook-plugin-github/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reward.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/reward.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/book.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -852,7 +36,7 @@
           <entry key="go" value="1" />
           <entry key="html" value="9" />
           <entry key="json" value="5" />
-          <entry key="md" value="127" />
+          <entry key="md" value="128" />
           <entry key="sh" value="2" />
         </counts>
       </usages-collector>
@@ -864,7 +48,7 @@
           <entry key="Go" value="1" />
           <entry key="HTML" value="9" />
           <entry key="JSON" value="5" />
-          <entry key="Markdown" value="127" />
+          <entry key="Markdown" value="128" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -874,7 +58,7 @@
           <entry key="json" value="275" />
           <entry key="md" value="3732" />
           <entry key="sh" value="16" />
-          <entry key="txt" value="39" />
+          <entry key="txt" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -884,7 +68,7 @@
           <entry key="HTML" value="15" />
           <entry key="JSON" value="275" />
           <entry key="Markdown" value="3717" />
-          <entry key="PLAIN_TEXT" value="101" />
+          <entry key="PLAIN_TEXT" value="108" />
         </counts>
       </usages-collector>
     </session>
@@ -940,20 +124,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/book.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="248">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/publish.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="128">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -988,7 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter1/1.23.md" />
         <option value="$PROJECT_DIR$/chapter1/1.24.md" />
         <option value="$PROJECT_DIR$/chapter1/1.25.md" />
         <option value="$PROJECT_DIR$/chapter1/1.26.md" />
@@ -1039,6 +222,7 @@
         <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/book.json" />
         <option value="$PROJECT_DIR$/publish.sh" />
+        <option value="$PROJECT_DIR$/src/book.json" />
       </list>
     </option>
   </component>
@@ -1090,8 +274,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
-    <option name="y" value="6" />
+    <option name="x" value="302" />
+    <option name="y" value="28" />
     <option name="width" value="1943" />
     <option name="height" value="1025" />
   </component>
@@ -1141,7 +325,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538080157731" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538080774146" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -1225,7 +409,7 @@
       <workItem from="1537776175390" duration="613000" />
       <workItem from="1537777840017" duration="63000" />
       <workItem from="1538079644347" duration="29000" />
-      <workItem from="1538079683074" duration="431000" />
+      <workItem from="1538079683074" duration="1045000" />
     </task>
     <task id="LOCAL-00001" summary="add docs">
       <created>1536751474129</created>
@@ -1311,14 +495,31 @@
       <option name="project" value="LOCAL" />
       <updated>1537004723081</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="upgrade">
+      <created>1538080342272</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1538080342272</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61390000" />
+    <option name="totallyTimeSpent" value="62004000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="224" y="0" width="1554" height="820" extended-state="0" />
+    <frame x="242" y="23" width="1554" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2052139" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1333,9 +534,9 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.3298193" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49636805" visible="true" weight="0.38403615" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49636805" weight="0.38403615" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50374687" side_tool="true" weight="0.32582584" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49625313" weight="0.32533732" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32986626" />
@@ -1392,21 +593,10 @@
     <MESSAGE value="change ignore file" />
     <MESSAGE value="update" />
     <MESSAGE value="add." />
-    <option name="LAST_COMMIT_MESSAGE" value="add." />
+    <MESSAGE value="upgrade" />
+    <option name="LAST_COMMIT_MESSAGE" value="upgrade" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter1/1.26.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="448">
-            <caret line="27" selection-start-line="27" selection-end-line="27" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1/1.27.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1965,17 +1155,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/book.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+    <entry file="file://$PROJECT_DIR$/src/node_modules/domhandler/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="467">
+            <caret line="109" column="5" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/publish.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="128">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>

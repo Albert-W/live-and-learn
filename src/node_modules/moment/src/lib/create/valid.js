@@ -1,6 +1,6 @@
 import extend from '../utils/extend';
 import { createUTC } from './utc';
-import getParsingFlags from './parsing-flags';
+import getParsingFlags from '../create/parsing-flags';
 import some from '../utils/some';
 
 export function isValid(m) {

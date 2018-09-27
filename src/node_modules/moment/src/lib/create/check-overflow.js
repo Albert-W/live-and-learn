@@ -1,6 +1,6 @@
 import { daysInMonth } from '../units/month';
 import { YEAR, MONTH, DATE, HOUR, MINUTE, SECOND, MILLISECOND, WEEK, WEEKDAY } from '../units/constants';
-import getParsingFlags from './parsing-flags';
+import getParsingFlags from '../create/parsing-flags';
 
 export default function checkOverflow (m) {
     var overflow;
