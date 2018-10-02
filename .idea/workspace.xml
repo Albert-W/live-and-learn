@@ -320,7 +320,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="147" />
-    <option name="y" value="61" />
+    <option name="y" value="15" />
     <option name="width" value="1944" />
     <option name="height" value="1025" />
   </component>
@@ -360,7 +360,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
-    <property name="GO_FMT" value="true" />
+    <property name="GO_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
