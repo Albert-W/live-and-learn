@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="320888ec-af18-4d7b-8c1d-62eff922b16b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reward.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/reward.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter1/1.31.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/1.31.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +15,7 @@
     <session id="-1274398734">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="31" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="5" />
@@ -25,10 +24,10 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="5" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,7 +37,7 @@
           <entry key="go" value="1" />
           <entry key="html" value="9" />
           <entry key="json" value="5" />
-          <entry key="md" value="141" />
+          <entry key="md" value="142" />
           <entry key="sh" value="4" />
         </counts>
       </usages-collector>
@@ -50,7 +49,7 @@
           <entry key="Go" value="1" />
           <entry key="HTML" value="9" />
           <entry key="JSON" value="5" />
-          <entry key="Markdown" value="141" />
+          <entry key="Markdown" value="142" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -58,7 +57,7 @@
         <counts>
           <entry key="gitignore" value="80" />
           <entry key="json" value="275" />
-          <entry key="md" value="4303" />
+          <entry key="md" value="4363" />
           <entry key="sh" value="16" />
           <entry key="txt" value="57" />
         </counts>
@@ -69,7 +68,7 @@
           <entry key="Git file" value="18" />
           <entry key="HTML" value="15" />
           <entry key="JSON" value="275" />
-          <entry key="Markdown" value="4288" />
+          <entry key="Markdown" value="4348" />
           <entry key="PLAIN_TEXT" value="119" />
         </counts>
       </usages-collector>
@@ -81,8 +80,22 @@
         <entry file="file://$PROJECT_DIR$/src/reward.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="112">
-                <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <first_editor relative-caret-position="64">
+                <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="160">
+                <caret line="7" selection-start-line="7" selection-end-line="7" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -92,11 +105,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/README.md">
+        <entry file="file://$PROJECT_DIR$/src/chapter1/1.31.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="480">
-                <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <first_editor relative-caret-position="125">
+                <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -183,9 +196,9 @@
         <option value="$PROJECT_DIR$/src/chapter1/1.4.md" />
         <option value="$PROJECT_DIR$/src/chapter1/1.1.md" />
         <option value="$PROJECT_DIR$/src/SUMMARY.md" />
-        <option value="$PROJECT_DIR$/src/chapter1/1.31.md" />
         <option value="$PROJECT_DIR$/src/reward.md" />
         <option value="$PROJECT_DIR$/src/README.md" />
+        <option value="$PROJECT_DIR$/src/chapter1/1.31.md" />
       </list>
     </option>
   </component>
@@ -238,9 +251,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2077" />
-    <option name="y" value="13" />
-    <option name="width" value="1518" />
+    <option name="x" value="1783" />
+    <option name="y" value="160" />
+    <option name="width" value="1817" />
     <option name="height" value="995" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -273,8 +286,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,7 +296,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539005297092" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539005675091" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -373,7 +386,8 @@
       <workItem from="1538553518558" duration="850000" />
       <workItem from="1538641987840" duration="1872000" />
       <workItem from="1538726401106" duration="978000" />
-      <workItem from="1538986929035" duration="6499000" />
+      <workItem from="1538986929035" duration="6645000" />
+      <workItem from="1539010117966" duration="443000" />
     </task>
     <task id="LOCAL-00001" summary="add docs">
       <created>1536751474129</created>
@@ -522,11 +536,25 @@
       <option name="project" value="LOCAL" />
       <updated>1539005189510</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="upgrade 1.31">
+      <created>1539005562389</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1539005562389</updated>
+    </task>
+    <task id="LOCAL-00023" summary="upgrade 1.31">
+      <created>1539005659434</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1539005659434</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74584000" />
+    <option name="totallyTimeSpent" value="75173000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -538,10 +566,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2046" y="11" width="1214" height="796" extended-state="0" />
+    <frame x="1811" y="128" width="1453" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28287196" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23870967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1147,35 +1175,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/1.31.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3040">
-            <caret line="136" column="2" selection-start-line="136" selection-start-column="2" selection-end-line="136" selection-end-column="2" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="192">
             <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reward.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="112">
-            <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1195,11 +1199,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/reward.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <first_editor relative-caret-position="160">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/1.31.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
