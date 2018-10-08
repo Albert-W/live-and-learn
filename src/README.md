@@ -15,6 +15,6 @@
 
 书中文章都是我在[知乎](https://www.zhihu.com/people/pfdlw/activities)的回答，内容有些许重复,希望大家海涵。另一方面，重复的内容正是影响我最深的观念和想法，值得反复提及。
 
-全书由我个人编辑校对，难免有纰漏错误。希望读者朋友们不吝赐教。文章统一反馈交流区：[Github](https://github.com/Albert-W/leave-and-learn)
+全书由我个人编辑校对，难免有纰漏错误。希望读者朋友们不吝赐教。文章统一反馈交流区：[Github](https://github.com/Albert-W/live-and-learn)
 
 
