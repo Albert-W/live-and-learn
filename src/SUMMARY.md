@@ -1,8 +1,7 @@
 # Table of contents
 
-* [介绍](README.md)
-* [学无止境](https://albert-w.github.io/leave-and-learn/)
-* [前言](readme.md)
+* [前言](README.md)
+* [知乎主页](https://www.zhihu.com/people/pfdlw/activities)
 * [1. 自制力](1.-zi-zhi-li/README.md)
   * [1.1 年轻人如何在独居时有效地保持自律？](1.-zi-zhi-li/1.1.md)
   * [1.2 学习方法金字塔](1.-zi-zhi-li/1.2.md)
