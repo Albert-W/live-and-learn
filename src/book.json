@@ -4,7 +4,6 @@
 
   "plugins": [
     "github",
-    "tbfed-pagefooter",
     "anchor-navigation-ex",
     "-lunr", 
     "-search", 
@@ -13,7 +12,8 @@
     "expandable-chapters",
     "pageview-count",
     "-sharing",
-    "sharing-plus"
+    "sharing-plus",
+    "page-footer-ex"
 
   ],
 
@@ -21,11 +21,7 @@
     "github": {
       "url": "https://github.com/Albert-W/leave-and-learn"
     },
-    "tbfed-pagefooter": {
-      "copyright": "Copyright &copy Albert-W 2018",
-      "modify_label": "该文件修订时间：",
-      "modify_format": "YYYY-MM-DD HH:mm:ss"
-    },
+
     "anchor-navigation-ex": {
       "isRewritePageTitle": false,
       "tocLevel1Icon": "fa fa-hand-o-right",
@@ -64,6 +60,12 @@
           "weibo", "qq", "linkedin",
           "qzone", "douban"
       ]
+    },
+    "page-footer-ex": {
+      "copyright": "Copyright &copy [Albert-W](https://github.com/Albert-W/live-and-learn) 2019",
+      "markdown":true,
+      "update_label": "** 文件修订时间： **",
+      "update_format": "  YYYY-MM-DD  "
     }
 
 
