@@ -1,11 +1,20 @@
 {
+  "language": "zh-hans",
+
 
   "plugins": [
-    "analytics",
     "github",
     "tbfed-pagefooter",
-    "anchor-navigation-ex@0.1.8",
-    "-sharing"
+    "anchor-navigation-ex",
+    "-lunr", 
+    "-search", 
+    "search-pro",
+    "splitter",
+    "expandable-chapters",
+    "pageview-count",
+    "-sharing",
+    "sharing-plus"
+
   ],
 
   "pluginsConfig": {
@@ -26,10 +35,37 @@
     "fontsettings": {
       "size": 1
     },
-    "analytics": {
-      "google": "UA-126653067-2",
-      "baidu":"0a7a279d1f42b12a0022d5fefc87b369"
+    "pdf": {
+      "pageNumbers": true,
+      "fontSize": 18,
+      "paperSize": "a5"
+
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": true,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+          "facebook", "google", "twitter",
+          "weibo", "qq", "linkedin",
+          "qzone", "douban"
+      ]
     }
+
 
   }
 }
