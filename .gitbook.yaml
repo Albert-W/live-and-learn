@@ -1,6 +1,0 @@
-root: ./src/
-
-redirects:
-  zhihu: https://www.zhihu.com/people/pfdlw/activities
-  About: ./README.md
-    
