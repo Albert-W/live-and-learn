@@ -62,7 +62,8 @@
       ]
     },
     "page-footer-ex": {
-      "copyright": "Copyright &copy [Albert-W](https://github.com/Albert-W/live-and-learn) 2019",
+      "copyright": "Copyright &copy [Albert-W](https://github.com/Albert-W/live-and-learn) 2019  ",
+      "联系":"![QR](https://github.com/Albert-W/live-and-learn/blob/master/image/qr-green.png)",
       "markdown":true,
       "update_label": "** 文件修订时间： **",
       "update_format": "  YYYY-MM-DD  "
